@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<aString>xmlfoo </aString>
+<anInt>3</anInt>
+<aBool>true</aBool>
+<xmllang>xml</xmllang>
+</config>

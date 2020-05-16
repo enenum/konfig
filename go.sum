@@ -1,0 +1,5 @@
+github.com/Netflix/go-env v0.0.0-20200512170851-5660fe1ab40a h1:lFjOd7Z9ZLqsfUAoypMQi1oI7XyZEuM7oh7E2U65IZM=
+github.com/Netflix/go-env v0.0.0-20200512170851-5660fe1ab40a/go.mod h1:9XMFaCeRyW7fC9XJOWQ+NdAv8VLG7ys7l3x4ozEGLUQ=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.3.0 h1:clyUAQHOM3G0M3f5vQj7LuJrETvjVot3Z5el9nffUtU=
+gopkg.in/yaml.v2 v2.3.0/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=

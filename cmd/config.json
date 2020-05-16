@@ -1,0 +1,6 @@
+{
+    "aString": "foo",
+    "anInt": 7,
+    "aBool": true,
+    "jsonlang": "json"
+}
