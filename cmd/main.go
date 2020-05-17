@@ -20,6 +20,6 @@ func main() {
 	cfg := &myConfig{}
 	os.Setenv("ANINT", "100")
 	defer os.Unsetenv("ANINT")
-	konfig.LoadCfg(cfg, "config.json", "config.yaml", "config.xml", "env")
+	konfig.LoadCfg(cfg, "config.json", "config.yaml", "", "config.xml", "env")
 	fmt.Printf("%+v\n", cfg)
 }
