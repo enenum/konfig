@@ -24,4 +24,4 @@ Try it out!
 konfig.LoadCfg(cfg, <config file 1> <config file 2> ... "env" <more config fiels>)
 ```
 
-Its a WIP. Mor to come.
+Its a WIP. More to come.
